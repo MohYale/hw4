@@ -113,3 +113,7 @@ I want you to create a folder in the work folder called hw4. I want our coding t
 ### Follow-up
 
 I want you to create a folder in the work folder called hw4. I want our coding to be put in the Hw4 folder and I want it to be pushed to a public github repository. Show me that URL. I want the graders to be able to open the repo and clone my work so that they can grade me.  I want you to use the github app on my computer. Do not go to the github website
+
+### Follow-up
+
+I am signed in. push it
