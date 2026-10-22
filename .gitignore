@@ -1,0 +1,11 @@
+node_modules/
+dist/
+dist-ssr/
+.venv/
+__pycache__/
+*.pyc
+.env
+*.env
+API_key.env
+*.local
+.DS_Store
